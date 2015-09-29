@@ -1,3 +1,14 @@
 body {
     background-color: green;
+    border-color: blue;
+    border-style: double;
+    border-width: thick;
+}
+h1 {
+    color: orange;
+    text-align: center;
+}
+h2 {
+  color: orange;
+  text-align: left;
 }

@@ -1,23 +1,23 @@
 body {
-  background: #7feab6;
-
+  background: #66FF66;
+ align-items: center;
+ line-height: 120%;
 }
 h1 {
-  text-align: center;
+  text-align: left;
   color: #007cbc;
+  background-color: lightgray;
 }
 
 h2 {
-  text-align: center;
-  color: #ff7832;
+  text-align: left;
+  color: #007cbc;
+  background-color: lightgray;
+  
+  line-height: 120%;
 }
 
 p {
-  text-align: center;
+  text-align: left;
 
-}
-
-img.center {
-    display: block;
-    margin: 0 auto;
 }

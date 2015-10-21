@@ -1,0 +1,26 @@
+body{
+  background-color: lightblue;
+border-left: white;
+border-right: white;
+border-style: double;
+
+}
+
+h1 {
+  text-align: center;
+  background-color: white;
+}
+
+p {
+  text-align: center;
+
+}
+
+h2{
+  text-align: center;
+
+}
+
+a{
+  text-align: center;
+}

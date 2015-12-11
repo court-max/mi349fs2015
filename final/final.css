@@ -1,0 +1,38 @@
+body {
+  background-color: lightgreen;
+}
+
+h1{
+  text-align: center;
+  border-style: double;
+  border-color: black;
+
+}
+
+h2 {
+  text-align: center;
+
+}
+
+p {
+  text-align: center;
+
+}
+
+footer{
+  text-align: center;
+}
+
+form{
+  text-align: center;
+}
+
+ol{
+  text-align:center;
+}
+
+@media only screen and (max-width: 500px) {
+    body {
+        background-color: lightgreen;
+    }
+}
